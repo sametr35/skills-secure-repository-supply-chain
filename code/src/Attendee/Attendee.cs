@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 using System.IO.Compression;
-
+aws-secret-key= AKIAIOSFODNN7EXAMPLE
 namespace Attendees
 {
 
