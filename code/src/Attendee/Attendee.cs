@@ -2,6 +2,9 @@ using System;
 using System.IO;
 using System.IO.Compression;
 
+# ClientID : my_client_id
+
+# ClientSecret : wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 namespace Attendees
 {
 
