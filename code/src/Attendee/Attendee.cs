@@ -2,9 +2,9 @@ using System;
 using System.IO;
 using System.IO.Compression;
 
-# ClientID : my_client_id
+# ClientID: my_client_id
 
-# ClientSecret : wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+# aws_secret_access_key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 namespace Attendees
 {
 
